@@ -1,3 +1,0 @@
-c/Users/Lord of Lightning/.ssh/id_ed25519
-~/.ssh/id_ed25519
-no passphrase
